@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saera Banu
-- 👀 I’m interested in frontend web development
+- 💞️ I’m interested in frontend web development
 - 🌱 I’m a masters student (computer science)
-- 💞️ I’m looking for freelance web designing work
 - 📫 Reach me - saerabanu18@gmail.com
 
 <!---
