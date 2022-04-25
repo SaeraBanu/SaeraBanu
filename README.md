@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saera Banu
-- 🌱 I’m a masters student (computer science)
+- 🌱 I’m a post graduate from computer science background 
 - 💞️ Interested in web development
 - 📫 Reach me - saerabanu18@gmail.com
 
